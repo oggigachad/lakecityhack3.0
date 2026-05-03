@@ -5,7 +5,7 @@
 
 - Aakash Sarang - [GitHub](https://github.com/oggigachad), [LinkedIn](https://www.linkedin.com/in/aakash-sarang-38b681263/)
 - Shreya Jaiswal - [LinkedIn](https://www.linkedin.com/in/shreya-jaiswal-703883260/)
-- Manish Srivastav - [LinkedIn](https://www.linkedin.com/in/manish-kumar-srivastav/)
+- Manish Srivastav - [GitHub](https://github.com/roxtop07), [LinkedIn](https://www.linkedin.com/in/manish-kumar-srivastav/)
 - Abhay Dwivedi - [LinkedIn](https://www.linkedin.com/in/abhay-dwivedi-989344287/)
 
 > AI-powered real-time crisis intelligence for India — backed by NDMA, IMD, NDRF & VeriAI (fine-tuned RoBERTa)
