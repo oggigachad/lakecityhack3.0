@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="TriNetra — AI-powered Crisis Incident Reporting & Management Platform for India. Real-time disaster alerts, NDMA data, and VeriAI analysis." />
+    <meta name="keywords" content="crisis management, disaster reporting, NDMA, India, emergency response, VeriAI, RoBERTa" />
+    <meta name="theme-color" content="#0A1628" />
+    <title>TriNetra — Crisis Management Platform</title>
+
+    <!-- IBM Plex fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+
+    <!-- Google Maps — replace YOUR_KEY with VITE_MAPS_KEY at build time -->
+    <!-- Maps loads async; components poll window.google.maps -->
+    <script>
+      (function() {
+        var key = '__VITE_MAPS_KEY__';
+        if (key && key !== '__VITE_MAPS_KEY__') {
+          var s = document.createElement('script');
+          s.src = 'https://maps.googleapis.com/maps/api/js?key=' + key + '&libraries=places,visualization&callback=_vsMapInit';
+          s.async = true; s.defer = true;
+          window._vsMapInit = function() {};
+          document.head.appendChild(s);
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

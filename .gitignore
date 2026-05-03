@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Node / frontend
+node_modules/
+dist/
+dist-ssr/
+.vite/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs and editor files
+*.log
+.DS_Store
+.vscode/
+.idea/
