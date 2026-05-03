@@ -1,5 +1,12 @@
-# VeriSignal — Crisis Incident Reporting & Management Platform
-### Lakecity Hack 3.0 | Team VeriSignal
+# TriNetra — Crisis Incident Reporting & Management Platform
+### Lakecity Hack 3.0 | Team TriNetra
+
+## Project Team
+
+- Aakash Sarang - [GitHub](https://github.com/oggigachad), [LinkedIn](https://www.linkedin.com/in/aakash-sarang-38b681263/)
+- Shreya Jaiswal - [LinkedIn](https://www.linkedin.com/in/shreya-jaiswal-703883260/)
+- Manish Srivastav - [LinkedIn](https://www.linkedin.com/in/manish-kumar-srivastav/)
+- Abhay Dwivedi - [LinkedIn](https://www.linkedin.com/in/abhay-dwivedi-989344287/)
 
 > AI-powered real-time crisis intelligence for India — backed by NDMA, IMD, NDRF & VeriAI (fine-tuned RoBERTa)
 
@@ -201,4 +208,4 @@ vercel --prod
 
 ---
 
-*VeriSignal — Built for Lakecity Hack 3.0. Powered by India's crisis data.*
+*TriNetra — Built for Lakecity Hack 3.0. Powered by India's crisis data.*
